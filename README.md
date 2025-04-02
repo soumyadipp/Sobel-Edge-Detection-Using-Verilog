@@ -79,3 +79,8 @@ Sobel edge detection is a fundamental image processing algorithm used to identif
 2. **PYNQ-Z2 Board:** Ensure the FPGA board is properly set up with the necessary drivers.
 3. **MATLAB (optional):** Use the provided script to preprocess images.  
 4. **Input Image:** Provide a grayscale bitmap (.bmp) image for processing.
+
+## Reference
+
+https://youtube.com/playlist?list=PLXHMvqUANAFOviU0J8HSp0E91lLJInzX1&si=pqnmj060RRyLJrv9
+
