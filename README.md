@@ -36,6 +36,13 @@ Sobel edge detection is a fundamental image processing algorithm used to identif
 
 ---
 
+## IP Implementation Result
+
+**Image Processing IP**  
+![IP image processing](FPGA_Implementation/Image_Processing_IP/IP_GUI.jpg)  
+
+---
+
 ## HardWare Implementation Result
 
 
